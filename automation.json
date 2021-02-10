@@ -1,24 +1,29 @@
 {
     "rows": [
       {
-        "label": "Gestalt Indrustries",
-        "value": "Procure to pay Q1 2021"
+        "value": "Gestalt Indrustries",
+        "label": "Procure to pay Q1 2021",
+        "drilldown_url": "https://github.com/hristobelchev/testingrepo/blob/master/automation.json"
       },
       {
-        "label": "Solomon International",
-        "value": "IT Services Management"
+        "value": "Solomon International",
+        "label": "IT Services Management",
+        "drilldown_url": "https://github.com/hristobelchev/testingrepo/blob/master/automation.json"
       },
       {
-        "label": "Hunter PLC",
-        "value": "Order-to-cash"
+        "value": "Hunter PLC",
+        "label": "Order-to-cash",
+        "drilldown_url": "https://github.com/hristobelchev/testingrepo/blob/master/automation.json"
       },
       {
-        "label": "Marshall Incorporated",
-        "value": "API and RPA"
+        "value": "Marshall Incorporated",
+        "label": "API and RPA",
+        "drilldown_url": "https://github.com/hristobelchev/testingrepo/blob/master/automation.json"
       },
       {
-        "label": "Winslets Window Washers",
-        "value": "AI-driven test automation"
+        "value": "Winslets Window Washers",
+        "label": "AI-driven test automation",
+        "drilldown_url": "https://github.com/hristobelchev/testingrepo/blob/master/automation.json"
       }
     ]
 }
